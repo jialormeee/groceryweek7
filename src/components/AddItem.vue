@@ -6,7 +6,10 @@
         <input type="text"/>
         <label>Item Price</label>
         <input type="text"/>
-        
+        <label>Item Checkout Code</label>
+        <input type="text"/>
+        <button type = "button">Add to Cart</button>   
+        <button type = "button">Remove from Cart</button>  
     </form>
   </div>
 </template>

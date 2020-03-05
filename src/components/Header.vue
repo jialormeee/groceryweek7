@@ -37,11 +37,11 @@ header{
 }
 h1{
     color:ivory;
-    background: rgb(28, 151, 160);
+    background: rgb(128, 151, 160);
     font-size: 30px;
 }
 nav{
-    background: rgb(28, 151, 160);
+    background: rgb(128, 151, 160);
     padding: 14px 0;
     margin-bottom: 40px;
 }
